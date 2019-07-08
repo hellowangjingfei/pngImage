@@ -1,2 +1,2 @@
 
-![Image text](https://github.com/hellowangjingfei/pngImage/blob/master/001.png)
+![Image text](https://raw.githubusercontent.com/hellowangjingfei/pngImage/master/001.png)
